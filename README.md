@@ -24,7 +24,7 @@ eProject source code at https://drive.google.com/file/d/1CJk-572az4JVtiKP7KU3a2V
 
 ============================
 
-eProject documentation at https://github.com/huongvu03/kitchen_appliances/tree/main/document
+eProject documentation at https://github.com/Khoaviporo/bakerzbite/tree/main/document
 
 ============================
 

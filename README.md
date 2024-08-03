@@ -30,7 +30,7 @@ eProject documentation at https://github.com/Khoaviporo/bakerzbite/tree/main/doc
 
 ============================
 
-eProject video at https://drive.google.com/file/d/1acTpz-eCnuruZeMyAfNogVYMxRWxPxSQ/view?usp=sharing
+eProject video at https://drive.google.com/file/d/1l-GbApUonM5_TbdCuuYh6vMkP67XFVI-/view?usp=sharing
 
 ============================
 
